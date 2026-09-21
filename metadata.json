@@ -1,0 +1,6 @@
+{
+  "name": "PackSure AI - Supervisor Portal",
+  "description": "Government-grade Legal Metrology Packaged Commodities Compliance System for field inspection review, AI rule verification, and reinspection workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
